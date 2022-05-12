@@ -32,7 +32,19 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Home 
+![image](https://user-images.githubusercontent.com/49943890/168047550-56752847-cb64-40bf-9258-502b6f01b263.png)
+
+Donate 
+![image](https://user-images.githubusercontent.com/49943890/168047692-d786b77b-2af7-40dc-add8-29e927d0e9f1.png)
+
+Payment
+![image](https://user-images.githubusercontent.com/49943890/168047799-64901e51-8c59-42f7-8c16-0db8901d5369.png)
+ 
+
+Contact  Us 
+![image](https://user-images.githubusercontent.com/49943890/168047431-cd80f858-b67d-471f-85da-0b0e7f2f9940.png)
+
 
 
 ## Support

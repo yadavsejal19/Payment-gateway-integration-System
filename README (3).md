@@ -5,6 +5,9 @@
 - The payment type that includes Credit Card, Netbanking, Paypal and Debit Card. 
 - On successful payment an invoice will be generated on a new page regarding completion of the payment.
 
+## Authors
+
+- Github: [@yadavsejal19](https://github.com/yadavsejal19)
 
 ## Documentation
 

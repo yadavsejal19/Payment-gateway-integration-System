@@ -24,10 +24,7 @@
 - Easy to use
 
 
-
-## Demo
-
-Insert gif or link to demo
+ Demo
 
 
 ## Screenshots

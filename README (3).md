@@ -27,8 +27,8 @@
 - Easy to use
 
 
- Demo
-
+##  Demo
+https://payment-getway-intergato1.herokuapp.com/
 
 ## Screenshots
 
